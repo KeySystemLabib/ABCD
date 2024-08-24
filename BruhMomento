@@ -1,0 +1,3 @@
+local keyA = "L4BIBONTOP" 
+
+return keyA
